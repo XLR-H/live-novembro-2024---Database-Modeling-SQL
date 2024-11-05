@@ -21,7 +21,7 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
 ## Solução
 
-- Perguntas para o levantamento de Requisitos
+### Perguntas para o levantamento de Requisitos
 1. Quais informações precisam ser armazenadas sobre os usuários?
    
    Resposta: Precisamos armazenar o nome, e-mail, senha, data de nascimento, endereço e o status da assinatura (ativa ou inativa).
