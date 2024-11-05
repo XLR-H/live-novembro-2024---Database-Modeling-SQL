@@ -38,6 +38,29 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
    Resposta: Não há limite para o número de conteúdos, desde que seja dentro dos dispositivos permitidos e que o usuário possua uma assinatura ativa.
 
+5. Quais informações serão armazenadas sobre os livros digitais e audiolivros?
+
+   Resposta: Precisamos armazenar o título, autor, tipo de conteúdo (e-book ou audiolivro), gênero, número de páginas ou duração.
+
+6. O sistema precisa controlar downloads e streaming?
+
+   Resposta: Não, os usuários poderão acessar o conteúdo apenas via streaming na plataforma, sem opção de download.
+
+7. O sistema deve permitir recomendações personalizadas para os usuários?
+
+   Resposta: Sim, o sistema deve sugerir novos conteúdos com base no histórico de empréstimos e nas preferências do usuário (por exemplo, gênero ou autor favorito).
+
+8. Como os usuários poderão buscar e filtrar os conteúdos disponíveis?
+
+   Resposta: O sistema deve permitir que os usuários busquem por título, autor, gênero e avaliações. Também deve incluir filtros para categorias, como “mais populares” ou “novidades”.
+
+9. Como será o processo de notificação para os usuários sobre a validade da assinatura?
+
+   Resposta: O sistema enviará notificações por e-mail ou através da plataforma, lembrando os usuários sobre a validade da assinatura e avisando sobre renovações ou falhas de pagamento.
+
+10. O sistema precisa limitar o tempo de inatividade antes de desconectar automaticamente o usuário?
+
+   Resposta: Sim, por razões de segurança, o sistema deve desconectar automaticamente após 30 minutos de inatividade.
 
 #### Autor
 
