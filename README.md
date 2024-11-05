@@ -9,7 +9,7 @@ A **BookStream** é uma empresa inovadora que deseja criar um sistema para geren
 Com este estudo de caso, os alunos deverão ser capazes de:
 
 1. **Analisar Requisitos**  
-   - Colaborar no levantamento de requisitos necessários para o sistema, a fim de compreender as funcionalidades esperadas pela BookStream.
+   - Realizar uma entrevista com o cliente utilizando um questionário preexistente para identificar as funcionalidades esperadas pela BookStream.
 
 2. **Modelar Banco de Dados**  
    - Desenvolver as modelagens de banco de dados nas etapas:
