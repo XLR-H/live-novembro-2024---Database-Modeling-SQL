@@ -59,8 +59,8 @@ Com este estudo de caso, os alunos deverão ser capazes de:
    Resposta: O sistema enviará notificações por e-mail ou através da plataforma, lembrando os usuários sobre a validade da assinatura e avisando sobre renovações ou falhas de pagamento.
 
 10. O sistema precisa limitar o tempo de inatividade antes de desconectar automaticamente o usuário?
-
-   Resposta: Sim, por razões de segurança, o sistema deve desconectar automaticamente após 30 minutos de inatividade.
+    
+    Resposta: Sim, por razões de segurança, o sistema deve desconectar automaticamente após 30 minutos de inatividade.
 
 #### Autor
 
