@@ -62,6 +62,18 @@ Com este estudo de caso, os alunos deverão ser capazes de:
     
     Resposta: Sim, por razões de segurança, o sistema deve desconectar automaticamente após 30 minutos de inatividade.
 
+---
+
+### Modelo conceitual
+![](modelo_conceitual.png)
+
+---
+
+### Modelo lógico
+![](modelo_logico.png)
+
+---
+
 #### Autor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandoleonid-blue?logo=linkedin)](https://www.linkedin.com/in/fernandoleonid)
